@@ -1,0 +1,30 @@
+# Une entrée par ligne : « image ; segmentation »  (chemins relatifs à ce fichier, ou absolus)
+# Les entrées vont par PAIRES : 1re = sans blebs (comptage), 2e = avec blebs segmentés (correction).
+# Image et segmentation doivent avoir la même grille. Formats : .nii, .nii.gz, .nrrd (dont .seg.nrrd de 3D Slicer).
+images/RCAN_01_167_S_0.4__ICA_1.nrrd ; images/RCAN_01_167_S_0.4__ICA_1.seg.nrrd
+images/RCAN_01_167_S_0.4__ICA_1.nrrd ; images/RCAN_01_167_S_0.4__ICA_1_blebs.seg.nrrd
+images/RCAN_01_168_S_0.4__ICA_1.nrrd ; images/RCAN_01_168_S_0.4__ICA_1.seg.nrrd
+images/RCAN_01_168_S_0.4__ICA_1.nrrd ; images/RCAN_01_168_S_0.4__ICA_1_blebs.seg.nrrd
+images/RCAN_01_169_S_0.4__ICA_1.nrrd ; images/RCAN_01_169_S_0.4__ICA_1.seg.nrrd
+images/RCAN_01_169_S_0.4__ICA_1.nrrd ; images/RCAN_01_169_S_0.4__ICA_1_blebs.seg.nrrd
+images/RCAN_01_170_S_0.4__ICA_1.nrrd ; images/RCAN_01_170_S_0.4__ICA_1.seg.nrrd
+images/RCAN_01_170_S_0.4__ICA_1.nrrd ; images/RCAN_01_170_S_0.4__ICA_1_blebs.seg.nrrd
+images/RCAN_01_171_S_0.4__ICA_1.nrrd ; images/RCAN_01_171_S_0.4__ICA_1.seg.nrrd
+images/RCAN_01_171_S_0.4__ICA_1.nrrd ; images/RCAN_01_171_S_0.4__ICA_1_blebs.seg.nrrd
+images/RCAN_01_173_S_0.4__ICA_1.nrrd ; images/RCAN_01_173_S_0.4__ICA_1.seg.nrrd
+images/RCAN_01_173_S_0.4__ICA_1.nrrd ; images/RCAN_01_173_S_0.4__ICA_1_blebs.seg.nrrd
+images/RCAN_01_178_S_0.4__ICA_1.nrrd ; images/RCAN_01_178_S_0.4__ICA_1.seg.nrrd
+images/RCAN_01_178_S_0.4__ICA_1.nrrd ; images/RCAN_01_178_S_0.4__ICA_1_blebs.seg.nrrd
+images/RCAN_01_180_S_0.4__ICA_1.nrrd ; images/RCAN_01_180_S_0.4__ICA_1.seg.nrrd
+images/RCAN_01_180_S_0.4__ICA_1.nrrd ; images/RCAN_01_180_S_0.4__ICA_1_blebs.seg.nrrd
+images/RCAN_01_316_S_0.4__ICA_1.nrrd ; images/RCAN_01_316_S_0.4__ICA_1.seg.nrrd
+images/RCAN_01_316_S_0.4__ICA_1.nrrd ; images/RCAN_01_316_S_0.4__ICA_1_blebs.seg.nrrd
+images/RCAN_01_319_S_0.4__ICA_1.nrrd ; images/RCAN_01_319_S_0.4__ICA_1.seg.nrrd
+images/RCAN_01_319_S_0.4__ICA_1.nrrd ; images/RCAN_01_319_S_0.4__ICA_1_blebs.seg.nrrd
+images/RCAN_01_320_S_0.4__ICA_1.nrrd ; images/RCAN_01_320_S_0.4__ICA_1.seg.nrrd
+images/RCAN_01_320_S_0.4__ICA_2.nrrd ; images/RCAN_01_320_S_0.4__ICA_2_blebs.seg.nrrd
+images/RCAN_01_321_S_0.4__ICA_1.nrrd ; images/RCAN_01_321_S_0.4__ICA_1.seg.nrrd
+images/RCAN_01_321_S_0.4__ICA_1.nrrd ; images/RCAN_01_321_S_0.4__ICA_1_blebs.seg.nrrd
+images/RCAN_01_322_S_0.4__ICA_1.nrrd ; images/RCAN_01_322_S_0.4__ICA_1.seg.nrrd
+images/RCAN_01_322_S_0.4__ICA_1.nrrd ; images/RCAN_01_322_S_0.4__ICA_1_blebs.seg.nrrd
+
